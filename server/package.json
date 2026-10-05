@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "author": "priscilla egber",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
